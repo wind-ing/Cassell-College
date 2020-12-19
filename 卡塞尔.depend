@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1566126608 source:d:\a练习代码\z  代码 c++教材学习\项目文件\卡塞尔\main.cpp
+	<iostream>
+	"Analysis.h"
+
+1564098919 d:\a练习代码\z  代码 c++教材学习\项目文件\卡塞尔\gradebook.h
+	<string>
+
+1564014556 source:f:\c++教材学习·暑假~~\项目文件\卡塞尔\gradebook.cpp
+	<iostream>
+	"GradeBook.h"
+
+1564015792 f:\c++教材学习·暑假~~\项目文件\卡塞尔\gradebook.h
+	<string>
+
+1564015388 source:f:\c++教材学习·暑假~~\项目文件\卡塞尔\main.cpp
+	<iostream>
+	"GradeBook.h"
+
+1564098993 source:d:\a练习代码\z  代码 c++教材学习\项目文件\卡塞尔\gradebook.cpp
+	<iostream>
+	<iomanip>
+	"GradeBook.h"
+
+1566124863 source:d:\a练习代码\z  代码 c++教材学习\项目文件\卡塞尔\mainanalysis.cpp
+	"Analysis.h"
+
+1566123233 d:\a练习代码\z  代码 c++教材学习\项目文件\卡塞尔\analysis.h
+
+1566124889 source:d:\a练习代码\z  代码 c++教材学习\项目文件\卡塞尔\analysis.cpp
+	<iostream>
+	"Analysis.h"
+
+1566124889 source:d:\a-练习代码\z  代码 c++教材学习\项目文件\卡塞尔\analysis.cpp
+	<iostream>
+	"Analysis.h"
+
+1566123233 d:\a-练习代码\z  代码 c++教材学习\项目文件\卡塞尔\analysis.h
+
+1564098993 source:d:\a-练习代码\z  代码 c++教材学习\项目文件\卡塞尔\gradebook.cpp
+	<iostream>
+	<iomanip>
+	"GradeBook.h"
+
+1564098919 d:\a-练习代码\z  代码 c++教材学习\项目文件\卡塞尔\gradebook.h
+	<string>
+
+1608129729 source:d:\a-练习代码\z  代码 c++教材学习\项目文件\卡塞尔\main.cpp
+	<iostream>
+	"Analysis.h"
+
